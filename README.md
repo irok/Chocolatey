@@ -11,5 +11,5 @@
 続いて`packages.config`に設定しておいたアプリケーションをインストール。
 
 ```
-cinst packages.config
+cinst packages.config -y
 ```
